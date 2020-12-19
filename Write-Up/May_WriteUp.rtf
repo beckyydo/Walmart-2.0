@@ -1,0 +1,26 @@
+EXTRACTION
+
+USA MetaData
+    We obtained data on US states by installing a python package called 'us' (source: https://pypi.org/project/us/) in our notebook. 
+Using the appropriate syntax, we created two dictionaries, namely:
+(1) 'us_state', comprising of the Federal Information Processing Standards (FIPS) states codes and two-letter abbreviation of each state; and 
+(2) 'id_code', comprising of the FIPS states codes and the AP style state abbreviations.
+
+    The 'us_state' was converted into a dataframe and renamed 'state_id', then exported to .csv format.
+
+Walmart Market Share
+    A report (source: https://ilsr.org/walmarts-monopolization-of-local-grocery-markets/#_edn14) showed a tabulation of Walmart's market share as of 2018.
+After pre-processing the data, using pandas, we imported the file and created a dataframe. 
+
+TRANSFORMATION
+
+Table #. Walmart Market Share
+1. Determined data types.
+2. Removed '%' sign from the values in the 'MARKET_SHARE' column, then converted datatype from object to integer.
+3. Replaced values (AP style state abbreviations) in 'STATE' column with the FIPS state codes, using the 'id_code' dictionary created prior.
+4. Renamed the 'STATE' column to 'STATE_ID' and set same as the index for the final dataframe.  
+
+PROBLEMS AND FUTURE PLANS
+    Pre-processing was required to obtain the Walmart Market Share data. The data is originally in pdf and jpg format. 
+Using OCR technology, data was retrieved from the jpg file and saved in .csv format.
+
