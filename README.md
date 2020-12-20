@@ -4,3 +4,8 @@ sales_aug.csv (173MB), and prices_csv (244MB) was unable to load into github due
 
 https://www.kaggle.com/ulrich07/walmartadd?select=sales_aug.csv
 
+ORDERED OF NOTEBOOKS:
+(E)xtraction
+(T)ransformation
+(L)oading
+
