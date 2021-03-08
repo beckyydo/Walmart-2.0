@@ -16,7 +16,7 @@ This project aims to demonstrate the ETL (extract, transform, load) process. Usi
 
 ETL_Project_Report.pdf is the final report of the ETL
 
-## Order of Notebooks:
+### Order of Notebooks:
 
 (E)xtraction
 
@@ -26,7 +26,7 @@ ETL_Project_Report.pdf is the final report of the ETL
 
 Additonal Repository (Rough Work): https://github.com/beckyydo/Project-2 
 
-## DATA TYPES AND SOURCES:
+## Data Types and Sources:
 ### Data 1
 Link: https://www.kaggle.com/naresh31/walmart-recruiting-store-sales-forecasting  <br />
 Data Source: Kaggle <br />
