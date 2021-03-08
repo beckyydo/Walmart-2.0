@@ -1,15 +1,16 @@
 # Walmart SQL Project
 
-Group Members:
-(1) May Lacdao
-(2) Hanieh Babaee
-(3) Rebecca Pham
-(4) Ronald Clarke
+**Group Members:** <br />
+(1) May Lacdao  <br />
+(2) Hanieh Babaee  <br />
+(3) Rebecca Pham <br />
+(4) Ronald Clarke  <br />
 (5) Elizabeth Salas Martinez
 
 Some of the datasets used in this project were too large to be included in the repository. To download the data, sales_aug.csv (173MB), and prices_csv (244MB) they can be
 downloaded in the link below from Kaggle. 
-https://www.kaggle.com/ulrich07/walmartadd?select=sales_aug.csv
+
+Missing Data Link: https://www.kaggle.com/ulrich07/walmartadd?select=sales_aug.csv
 
 This project aims to demonstrate the ETL (extract, transform, load) process. Using various Walmart-related datasets, the project aims to build a database that allows anyone to analyze Walmart sales and revenue as affected by various factors such as temperature, CPI, fuel prices and unemployment rates.
 
