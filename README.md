@@ -16,7 +16,7 @@ This project aims to demonstrate the ETL (extract, transform, load) process. Usi
 
 ETL_Project_Report.pdf is the final report of the ETL
 
-ORDERED OF NOTEBOOKS:
+## Order of Notebooks:
 
 (E)xtraction
 
@@ -24,7 +24,7 @@ ORDERED OF NOTEBOOKS:
 
 (L)oading
 
-ROUGH WORK REPO: https://github.com/beckyydo/Project-2 (Contains rough work commits)
+Additonal Repository (Rough Work): https://github.com/beckyydo/Project-2 
 
 ## DATA TYPES AND SOURCES:
 ### Data 1
